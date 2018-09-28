@@ -5,4 +5,4 @@ HTML
 CSS
 JAVA SCRIPT
 
-You can see my website here: https://taniaafzal110.github.io/website-login-page/
+You can see my project here: https://taniaafzal110.github.io/website-login-page/
